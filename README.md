@@ -14,9 +14,9 @@ I have a burning passion for learning more about IOT and creating useful interne
 ## Projects
 
 
-|test|test|test|test|
+|<img src="images/angular.svg" width="100">|<img src="images/nodejs.svg" width="100">|<img src="images/expressjs.svg" width="100">|<img src="images/mongodb.svg" width="100">|
 |---|---|---|---|
-|test|test|test|test|
+|<img src="images/vmware.svg" width="100">|<img src="images/docker.svg" width="100">|<img src="images/kubernetes.svg" width="100">|<img src="images/nginx.svg" width="100">|
 
 
 ## Contact info
