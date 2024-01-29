@@ -12,11 +12,52 @@ I am currently employed at Greenbrier Rail Services where I work as a CNC Machin
 I have a strong desire to learn more about IoT and learning more about developing for embedded devices.
 
 ## Skills
-|<img src="images/w3_html5.svg" width="200">|<img src="images/w3_css.svg" width="200">|<img src="images/javascript.svg" width="200">|<img src="images/typescript.svg" width="200">|
-|---|---|---|---|
-|<img src="images/angular.svg" width="200">|<img src="images/nodejs.svg" width="200">|<img src="images/expressjs.svg" width="200">|<img src="images/mongodb.svg" width="200">|
-|---|---|---|---|
-|<img src="images/vmware.svg" width="200">|<img src="images/docker.svg" width="200">|<img src="images/kubernetes.svg" width="200">|<img src="images/nginx.svg" width="200">|
+<table>
+  <tbody>
+    <tr valign="center">
+      <td width="20%" align="center">
+        <img height="64px" src="images/w3_html5.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="images/w3_css.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="images/javascript.svg">
+      </td>
+      <td width="20%" align="center">
+       <img height="64px" src="images/typescript.svg">
+      </td>
+    </tr>
+    <tr valign="center">
+      <td width="20%" align="center">
+        <img height="64px" src="images/angular.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="images/nodejs.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="images/expressjs.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="images/mongodb.svg">
+      </td>
+    </tr>
+    <tr valign="center">
+      <td width="20%" align="center">
+        <img height="64px" src="images/vmware.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="images/docker.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="images/kubernetes.svg">
+      </td>
+       <td width="20%" align="center">
+        <img height="64px" src="images/nginx.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Contact info
