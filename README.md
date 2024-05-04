@@ -1,7 +1,7 @@
 
 
 ## About me
-My name is Alex, and I am an looking to get into the industry as a full stack developer. My story in programming began with a friend of mine introducing me to computer networking at the beginning of 2023 which has led me down one crazy rabbit hole after the next, which has taken my curiosity topics such as virtual machines, self-hosting servers, setting up my own small kubernetes cluster, and eventually has led me to web development. I am passionate about learning the many facets of what allows web technologies to work. I am also facinated by digital electronics and the field of IoT.
+My name is Alex, and I am an looking to get into the industry as a full stack developer. My story into programming began with a friend of mine urging me to learn computer networking at the beginning of 2023 which has led me down one crazy rabbit hole after the next, taking my curiosity to topics such as virtual machines, self-hosting servers, setting up my own small kubernetes cluster, and eventually leading me to web development. I am passionate about learning the many facets of what allows web technologies to work. I am also facinated by digital electronics and the field of IoT.
 
 I have been learning and honing my skills with Angular and Express.js, creating single page applications with custom APIs.
 
