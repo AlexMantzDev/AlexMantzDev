@@ -44,7 +44,7 @@ I have a strong desire to learn more about IoT and learning more about developin
     </tr>
     <tr valign="center">
       <td width="20%" align="center">
-        <img height="64px" src="images/vmware.svg">
+        <img height="64px" src="images/tailwindcss.svg">
       </td>
       <td width="20%" align="center">
         <img height="64px" src="images/docker.svg">
