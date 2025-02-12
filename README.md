@@ -44,16 +44,16 @@ I have a strong desire to learn more about IoT and learning more about developin
     </tr>
     <tr valign="center">
       <td width="20%" align="center">
-        <img height="64px" src="images/tailwindcss.svg">
+        <img height="64px" src="images/mongodb.svg">
       </td>
       <td width="20%" align="center">
         <img height="64px" src="images/docker.svg">
       </td>
       <td width="20%" align="center">
-        <img height="64px" src="images/kubernetes.svg">
+        <img height="64px" src="images/nginx.svg">
       </td>
        <td width="20%" align="center">
-        <img height="64px" src="images/nginx.svg">
+        <img height="64px" src="images/jest.svg">
       </td>
     </tr>
   </tbody>
