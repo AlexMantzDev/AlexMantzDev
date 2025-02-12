@@ -39,7 +39,7 @@ I have a strong desire to learn more about IoT and learning more about developin
         <img height="64px" src="images/expressjs.svg">
       </td>
       <td width="20%" align="center">
-        <img height="64px" src="images/mongodb.svg">
+        <img height="64px" src="images/postgresql.svg">
       </td>
     </tr>
     <tr valign="center">
