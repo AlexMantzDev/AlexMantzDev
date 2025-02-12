@@ -22,7 +22,7 @@ I have a strong desire to learn more about IoT and learning more about developin
         <img height="64px" src="images/w3_css.svg">
       </td>
       <td width="20%" align="center">
-        <img height="64px" src="images/javascript.svg">
+        <img height="64px" src="images/sass-1.svg">
       </td>
       <td width="20%" align="center">
        <img height="64px" src="images/typescript.svg">
